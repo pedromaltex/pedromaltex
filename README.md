@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Pedro
 
-🎓 MSc in Computer Engineering @ Instituto Superior Técnico
-🧠 Minor in Computational Mathematics Applied to Finance
-🎓 BSc in Engineering Physics and Technology @ Instituto Superior Técnico
-💼 Former Consulting Trainee @ JUNITEC | Summer Intern in Data Science & Signal Processing @ C-MO
-📈 Passionate about Software Engineering, Investment Strategies, and Data Science
+🎓 MSc in Computer Engineering @ Instituto Superior Técnico 
+🧠 Minor in Computational Mathematics Applied to Finance 
+🎓 BSc in Engineering Physics and Technology @ Instituto Superior Técnico 
+💼 Former Consulting Trainee @ JUNITEC | Summer Intern in Data Science & Signal Processing @ C-MO 
+📈 Passionate about Software Engineering, Investment Strategies, and Data Science 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-maltez-48a70915a/)  
