@@ -1,13 +1,9 @@
 ## 👋 Hello, I'm Pedro
 
 🎓 MSc in Computer Engineering @ Instituto Superior Técnico
-
 🧠 Minor in Computational Mathematics Applied to Finance
-
 🎓 BSc in Engineering Physics and Technology @ Instituto Superior Técnico
-
 💼 Former Consulting Trainee @ JUNITEC | Summer Intern in Data Science & Signal Processing @ C-MO
-
 📈 Passionate about Software Engineering, Investment Strategies, and Data Science
 
 ## 🌐 Socials:
