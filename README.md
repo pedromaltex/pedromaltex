@@ -6,6 +6,8 @@
 
 🎓 BSc in Engineering Physics and Technology @ Instituto Superior Técnico 
 
+💼 Summer Intern in Data Science & Signal Processing @ C-MO 
+
 💼 Former Consulting Trainee @ JUNITEC | Summer Intern in Data Science & Signal Processing @ C-MO 
 
 📈 Passionate about Software Engineering, Investment Strategies, and Data Science 
