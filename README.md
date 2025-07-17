@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Pedro
 
-🎓 MSc in Computer Engineering @ Instituto Superior Técnico 
+🎓 MSc in Computer Science @ Instituto Superior Técnico 
 
 🧠 Minor in Computational Mathematics Applied to Finance 
 
